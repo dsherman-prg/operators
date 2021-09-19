@@ -1,9 +1,11 @@
 fun main(){
+    // Initialize variables
     val a = 10
     val b = 2
-    var result = 0
 
-    result = a+b
+    // Perform calculations and assign it to result
+    // Print the operation and the result
+    var result = a+b
     println("$a + $b = $result")
 
     result = a/b
